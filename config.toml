@@ -2,13 +2,13 @@ theme = "webstack"
 version = "20.06.09"
 
 # 首页网址
-baseURL = "https://edui123.com"
+baseURL = "https://blue-isle.github.io/mingzhuo"
 # 标题
-title = "Edui123.com"
+title = "明礼至卓"
 
 [params]
     # 副标题
-    subtitle = "让教学简单一点点"
+    subtitle = "明以礼 卓不凡"
     # css和js文件的cdn
     cdn = "https://cdn.jsdelivr.net/gh/lmm214/edui@gh-pages"
     # 开启今日诗词
